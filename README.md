@@ -58,3 +58,7 @@ src/chess/       Board and move validation implementation
 src/graphics/    Board rendering implementation
 src/main.cpp     Application and user-interface loop
 ```
+
+## Asset credits
+
+The chess-piece artwork comes from the [Vector Chess Pieces Pack by RhosGFX](https://rhosgfx.itch.io/vector-chess-pieces). The pack is provided under the [Creative Commons CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). Attribution is appreciated but not required.
